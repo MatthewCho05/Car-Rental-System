@@ -1,0 +1,4 @@
+VEH101,SUV,Toyota RAV4,customer1@email.com,2026-03-25,2026-04-02,Active
+VEH201,Sedan,Honda Civic,customer2@email.com,2026-03-25,2026-03-30,Active
+VEH301,Truck,Ford F-150,customer3@email.com,2026-04-05,2026-04-10,Upcoming
+VEH103,SUV,Chevrolet Tahoe,customer123@gmail.com,2026-04-01,2026-04-08,Upcoming

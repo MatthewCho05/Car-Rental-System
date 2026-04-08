@@ -1,0 +1,2 @@
+admin123@gmail.com,password123
+customer123@gmail.com,password123
